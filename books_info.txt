@@ -1,0 +1,1 @@
+[{"title": "a", "author": "a", "pages": 12, "price": 3.0, "isbn": "AA"}, {"title": "a", "author": "sfa", "pages": 432, "price": 654.0, "isbn": "KK"}, {"title": "dk", "author": "qw", "pages": 12341, "price": 58213.0, "isbn": "LKKJ"}, {"title": "g", "author": "s", "pages": 41, "price": 123.0, "isbn": "LL"}]
